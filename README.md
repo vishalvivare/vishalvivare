@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on *OpenSource Projects* 
 
-- 👨‍💻 All of my projects are available at *[My Portfolio](https://cheerful-zabaione-730231.netlify.app/)*
+- 👨‍💻 All of my projects are available at *[My Portfolio](https://my-portfolio-flame-zeta.vercel.app/)*
 
 - 📫 How to reach me *vsvivare@gmail.com*
 
