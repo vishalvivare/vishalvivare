@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on *OpenSource Projects* 
 
-- 👨‍💻 All of my projects are available at *[My Portfolio](https://my-portfolio-l4mika0y4-vishalvivare.vercel.app/)*
+- 👨‍💻 All of my projects are available at *[My Portfolio](https://vishalvivare.vercel.app/)*
 
 - 📫 How to reach me *vsvivare@gmail.com*
 
